@@ -9,6 +9,7 @@ Data Science Portfolio
   their ranking on the ladder.
 
 - Visualizations:
+
 ![](https://github.com/JasonSpaw/SC2StoryProject/blob/main/SC2_Correlation_Plot.png)
 ![](https://github.com/JasonSpaw/SC2StoryProject/blob/main/SC2%20-%20plot1.png)
 ![](https://github.com/JasonSpaw/SC2StoryProject/blob/main/SC2%20-%20plot2.png)
