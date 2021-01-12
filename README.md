@@ -1,8 +1,12 @@
 # Data Science and Analytics Portfolio
 
+Jason Spaw
+jp_spaw@outlook.com
+(573) 528-2447
+
 # [Project 1 - Starcraft 2 Performance Storytelling](https://github.com/JasonSpaw/SC2StoryProject)
 
-- In this project I examined the dataset SkillCraft1_Dataset.csv used in a research study performed at Simon Fraser University in British Columbia, Canada <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075129>.  Mark Blair, one of the researchers in the study posted the dataset on data.world, where it could be shared for free.  The data was collected from ladder players submitting their replays, which also carry the game stats of the match being replayed, to an online site.  Then game stats where then parsed and stored into one dataset.  Replays on pro players were colllected from various sites that contained databases of profession matches.  The   The story I am attempting to tell using this dataset is what attributes to skill level, league ranking, in
+- In this project I examined the dataset SkillCraft1_Dataset.csv used in a research study performed at Simon Fraser University in British Columbia, Canada <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075129>.  Mark Blair, one of the researchers in the study posted the dataset on data.world, where it could be shared for free.  The data was collected from ladder players submitting their replays, which also carry the game stats of the match being replayed, to an online site.  Then game stats where then parsed and stored into one dataset.  Replays on pro players were colllected from various sites that contained databases of profession matches.  The story I am attempting to tell using this dataset is what attributes to skill level, league ranking, in
 
 - The purpose for of the project was for school and also to determine the most imparitive areas to focus on for anyone who plays Starcraft 2 and wants to improve
   their ranking on the ladder.
