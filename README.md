@@ -24,15 +24,6 @@ I correlated age to the size factor in the plots.  It is interesting to see that
 
 - Data used for this project was found on Kaggle at <https://www.kaggle.com/uciml/student-alcohol-consumption> 
 
-- Source Information:
-P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
-
-Fabio Pagnotta, Hossain Mohammad Amran.
-Email:fabio.pagnotta@studenti.unicam.it, mohammadamra.hossain '@' studenti.unicam.it
-University Of Camerino
-
-https://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION
-
 - The factors that made the most impact in student performance was found to be the school they attended and their availability of internet which would allow access to a limitless number of resources to pull from.
 
 - Infographic:
