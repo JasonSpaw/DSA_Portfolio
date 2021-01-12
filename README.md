@@ -1,7 +1,7 @@
 # Portfolio
 Data Science Portfolio
 
-Project 1 - Starcraft 2 Performance Storytelling
+# [Project 1 - Starcraft 2 Performance Storytelling](https://github.com/JasonSpaw/SC2StoryProject)
 
 - In this project I examined the dataset SkillCraft1_Dataset.csv used in a research study performed at Simon Fraser University in British Columbia, Canada <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075129>.  Mark Blair, one of the researchers in the study posted the dataset on data.world, where it could be shared for free.  The data was collected from ladder players submitting their replays, which also carry the game stats of the match being replayed, to an online site.  Then game stats where then parsed and stored into one dataset.  Replays on pro players were colllected from various sites that contained databases of profession matches.  The   The story I am attempting to tell using this dataset is what attributes to skill level, league ranking, in
 
@@ -18,13 +18,32 @@ Although, their is a correlation for most variables, the ones that seem to have 
 
 I correlated age to the size factor in the plots.  It is interesting to see that most players in Grandmater are below the age of 30.
 
-Project 2 - Factors on Student Grades Infographic Storytelling
+# [Project 2 - Factors on Student Grades Infographic Storytelling](https://github.com/JasonSpaw/EduFactors_Vis)
 
 - The purpose for of the project was for school and also to determine the main contributing factors to students' performance.
 
-- The factors that made the most impact in student performance was found to be the school they attended and their availability of internet which would allow access to a limitless number of resources to pul from.
+- Data used for this project was found on Kaggle at <https://www.kaggle.com/uciml/student-alcohol-consumption> 
+
+- Source Information:
+P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
+
+Fabio Pagnotta, Hossain Mohammad Amran.
+Email:fabio.pagnotta@studenti.unicam.it, mohammadamra.hossain '@' studenti.unicam.it
+University Of Camerino
+
+https://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION
+
+- The factors that made the most impact in student performance was found to be the school they attended and their availability of internet which would allow access to a limitless number of resources to pull from.
 
 - Infographic:
 
-Project 3 - Chicago Crimes Database Design and Implementaion
+![](https://github.com/JasonSpaw/EduFactors_Vis/blob/main/Data%20Vis%20Final%20revised.png)
 
+# [Project 3 - Chicago Crimes Database Design and Implementaion](https://github.com/JasonSpaw/Chicago_Database)
+
+- The purpose for of the project was for school and also to design and create a database containing crime data of Chicago from the year 2012 and then query tables from the database to depict crime in Chicago.
+
+- ERD:
+![](https://github.com/JasonSpaw/Chicago_Database/blob/main/DB%20Final%20Project%20ERD.png)
+
+- [Queries ran on database here](https://github.com/JasonSpaw/Chicago_Database/blob/main/Final-Project-Part-III.ipynb)
