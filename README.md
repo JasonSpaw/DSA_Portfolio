@@ -1,5 +1,4 @@
-# Portfolio
-Data Science Portfolio
+# Data Science and Analytics Portfolio
 
 # [Project 1 - Starcraft 2 Performance Storytelling](https://github.com/JasonSpaw/SC2StoryProject)
 
