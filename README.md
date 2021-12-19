@@ -185,3 +185,9 @@ Code:
 This project demonstrates my abilities to perform Frequent Itemset mining using Apriori.
 
 - [Code here](https://github.com/JasonSpaw/Frequent-Itemset-Mining-Apriori-Alternatives/blob/main/alt-itemset-mining-ex.ipynb)
+
+# [Project 6 - Rise in Anti Vax and Mumps](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps)
+
+This project was to determine if there is a trend in the rise of anti-vaxxers and recent rise in Mumps, if any.
+
+- [Code here](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Final_Project_Story%20(1).ipynb)
