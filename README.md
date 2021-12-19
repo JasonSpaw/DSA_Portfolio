@@ -58,7 +58,7 @@ I correlated age to the size factor in the plots.  It is interesting to see that
 
 # [Project 4 - Computational Linguistics over Reddit Data](https://github.com/JasonSpaw/DMIR-Final-Project---Computational-Linguistics-over-Reddit-Data)
 
-- For this project, pull Reddit subposts from 5 programming related subreddits into a PostGres database, created triggers to implement vector models to aid in search queries, and analyzed sentiment across subreddits from different fields/job titles related to computer programming, such as datascience, machinelearning, dataanalytics, gamedev (wanted to compare field that might attract more artistic applications), and robitics (to compare a field that might attract those that like to tinker with mechanical engineering side while also applying programming/machine learning). The goal is simple, to observe sentimental trends and see if the users utilizing the subreddits, assuming those posting on the subreddits are working or studying those fields, enjoy their field more than others enjoy theirs as a whole, or perhaps there is very little to no deviation between the fields in which case it is all relative to the individuals. I also looked at topic and phrase modeling to support my claims.
+- For this project, I pulled Reddit subposts from 5 programming related subreddits into a PostGres database, created triggers to implement vector models to aid in search queries, and analyzed sentiment across subreddits from different fields/job titles related to computer programming, such as datascience, machinelearning, dataanalytics, gamedev (wanted to compare field that might attract more artistic applications), and robitics (to compare a field that might attract those that like to tinker with mechanical engineering side while also applying programming/machine learning). The goal is simple, to observe sentimental trends and see if the users utilizing the subreddits, assuming those posting on the subreddits are working or studying those fields, enjoy their field more than others enjoy theirs as a whole, or perhaps there is very little to no deviation between the fields in which case it is all relative to the individuals. I also looked at topic and phrase modeling to support my claims.
 
 Sentiment Analysis of Programming Subreddits:
 
@@ -188,8 +188,6 @@ This project demonstrates my abilities to perform Frequent Itemset mining using 
 
 # [Project 6 - Rise in Anti-Vax and Mumps Choropleth Analysis](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps-Choropleth-Analysis)
 This was the Final Project I submitted for my Geospatial Engineering Course. 
-
-# Rise in Anti-Vax and Mumps Choropleth Analysis
 
 - Measles, mumps, rubella have been making a comeback in the recent years.  The story I am attempting to uncover is whether the number of cases is correlated with the number of people refusing to vaccinate their children, with recent conspiracy hypes.
 
