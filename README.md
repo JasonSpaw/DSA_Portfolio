@@ -179,3 +179,9 @@ Code:
 
 - [final-project-p1.ipynb](https://github.com/JasonSpaw/DMIR-Final-Project---Computational-Linguistics-over-Reddit-Data/blob/main/final-project-p1.ipynb)
 - [final-project-p2.ipynb](https://github.com/JasonSpaw/DMIR-Final-Project---Computational-Linguistics-over-Reddit-Data/blob/main/final-project-p2.ipynb)
+
+# [Project 5 - Frequent-Itemset-Mining-Apriori-Alternatives](https://github.com/JasonSpaw/Frequent-Itemset-Mining-Apriori-Alternatives)
+
+This project demonstrates my abilities to perform Frequent Itemset mining using Apriori.
+
+- [Code here](https://github.com/JasonSpaw/Frequent-Itemset-Mining-Apriori-Alternatives/blob/main/alt-itemset-mining-ex.ipynb)
