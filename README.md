@@ -184,7 +184,7 @@ Code:
 
 This project demonstrates my abilities to perform Frequent Itemset mining using Apriori.
 
-- [Code here](https://github.com/JasonSpaw/Frequent-Itemset-Mining-Apriori-Alternatives/blob/main/alt-itemset-mining-ex.ipynb)
+- [View notebook here](https://github.com/JasonSpaw/Frequent-Itemset-Mining-Apriori-Alternatives/blob/main/alt-itemset-mining-ex.ipynb)
 
 # [Project 6 - Rise in Anti-Vax and Mumps Choropleth Analysis](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps-Choropleth-Analysis)
 This was the Final Project I submitted for my Geospatial Engineering Course. 
