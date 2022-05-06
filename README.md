@@ -186,47 +186,52 @@ This project demonstrates my abilities to perform Frequent Itemset mining using 
 
 - [View notebook here](https://github.com/JasonSpaw/Frequent-Itemset-Mining-Apriori-Alternatives/blob/main/alt-itemset-mining-ex.ipynb)
 
-# [Project 6 - Rise in Anti-Vax and Mumps Choropleth Analysis](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps-Choropleth-Analysis)
-This was the Final Project I submitted for my Geospatial Engineering Course. 
+# [Project 6 - Geospatial Analysis Final Project](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project)
+Final Project submitted for Geospatial Analysis Course. 
 
-- Measles, mumps, rubella have been making a comeback in the recent years.  The story I am attempting to uncover is whether the number of cases is correlated with the number of people refusing to vaccinate their children, with recent conspiracy hypes.
+- Roughly 1 in 107, people die in car crashes every year.  The purpose of this story is to uncover what may be some contributing factors to car wrecks as to spread awareness.
 
-- My sources of data can be found at these links.  I primarley webscraped data from charts on the CDC website.
+- My sources of data can be found at these links.
+  - https://www.ariesportal.com/Downloads/Download?icon=fa-download
+  - https://hub.mph.in.gov/dataset/aries-crash-data-2007-2017
+  - https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual
 
-  - https://wonder.cdc.gov/nndss/nndss_annual_tables_menu.asp
-  - https://www.cdc.gov/vaccines/imz-managers/coverage/schoolvaxview/data-reports/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fimz-managers%2Fcoverage%2Fschoolvaxview%2Fdata-reports%2Fexemptions-trend%2Findex.html
-  - https://www2.census.gov/geo/tiger/GENZ2016/shp
+- The audience I wish to reach are those curious about what might be contribute to roadway accidents.
 
-- The audience I wish to reach are who might wish to know whether more concern should be raised over recent numbers of mumps cases, or to give a sight for those who may need to convince a spouse to vaccinate their child.
+- For this project 3 grids, at varying resolutions for grid size (1K, 2K, 3K), were utilized to observe the effects of MAUP (Modifiable Areal Unit Problem) for analysis. The concentrations of crashes, road miles, annual average daily traffic (AADT), and various types of intersections,  along with the average speed limit, were aggregated to the grid cells for further use.
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Crash%20Grid%201.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Crash%20Grid%202.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Crash%20Grid%203.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Roads%20Grid%201.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Roads%20Grid%202.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Roads%20Grid%203.png)
 
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/geo%20mean%20cases.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/geo%20delta%20mean%20cases.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/geo%20delta%20mmr%20coverage.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2011_12.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2012.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2012_13.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2013.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2013_14.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2014.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2014_15.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2015.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2015_16.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2016.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2016_17.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2017.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2017_18.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2018.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2018_19.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2019.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Exempt_Est%20(%25)_2019_20.png)
-![](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/cum_mumps_2020.png)
+- Analysis 1
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Speed%20limit%20ranges.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/crashes%20over%20speed%20limit.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/crashes%20per%20mile%20v%20speed%20limit.png)
 
-- Conclusion:
+- This analysis is to look at the relationship between speed limit and vehicle crashes on roads.  When observing the map with crashpoints in relation to road speed limits, there does appear to be a correlation between speed limit and crashpoint frequencies. However, when observing the bargraph of crashpoint frequencies per speed limit, it becomes clear that the correlation is more likely due to the geographies and traffic conditions of where the speed limits are posted, rather than speed itself.  Higher crash frequencies are seen in areas where the speed limit is either zero or between 30 and 55 miles per hour.  This seems to indicate that vehicle crashes are more prevolent in areas of higher congestion or possibly where more attention to surroundings is needed.  Areas that have a speed limit of zero are likely residential areas where no speed limit is posted, where although drivers will likely not be driving as fast as the highway, crashes may result more from lack of caution for a lot more obsticles that may arise, such as pedestrians or other vehicles pulling out of driveways.
 
-Measles mumps rubella vaccine has been a standard vaccination requirement before children entering Kindergarden, triggering an immune response allowing the body to develope anti-bodies and lasting resistance for life.  When comparing the mean number of cumulative mumps out breaks across the nation to the mean percent of population utilizing exemptions by state over time there did not seem to be a clear trend between the two, and perhaps a reverse trend through some time spans.  When comparing the percent of the state population utilizing exemptions to the number of annual cumulative cases of mumps reported there seems to be the same reverse trend for individual states.
+- Analysis 2
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/AADT%20quantiles.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Crashes%20Over%20AADT.png)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Crashes%20per%20mile%20v%20AADT.png)
 
-These results are not what I expected but could perhaps be explained by some other factor such as travelers bringing mumps from foriegn lands, although the number of people unvaccinated does not help.  The reverse trend in exemptions maybe be do to a lag effect as people are reacting to the news, much like the stock market.  As new cases rise more people may become fearful and vaccinate themselves and their children (especially if a case is witnessed first hand).  As precautions are put in place, the numbers drop and thoughts of conspiracy begin once again.
+- This analysis is to look at the relationship between the Annual Average Daily Traffic (AADT) and vehicle crashes on roads.  When observing the map with crashpoints in relation to road AADTs, there does appear to be a correlation between AADTs and crashpoint frequencies. However, when observing the bargraph of crashpoint frequencies per AADT bins, it becomes clear that the correlation is more likely due to the geographies and traffic conditions, rather than AADT of the road segment.  When observing the bargraph of crashpoints per mile in relation to the AADT of roads, it becomes clear that the crash frequency might likely be more of a result geographies and traffic conditions of that length of road.  Roads in residential and shopping areas would see a consistent flow of traffic but yet not as much traffic as major highways.  Thus, clustering within regions of AADT levels is observed much like with speed limits and crash frequencies drop off at higher AADT, where drivers are on the highways and, although they are traveling much faster speeds with a higher volume of other vehicles, need to focus on less potential risks and simply focus on staying in their lane until they need to take the exit ramp, which still would likely require attention to fewer potential risks than if driving in residential or shopping (urban) areas, where there are more obsticles and turns to pay attention to.
 
-For my final conclusion, I would have to say that the results are inconclusive and would require a more extensive analysis.  However, I would speculate that the number of people utilizing exemptions might be a response to number of mumps cases, rather than the root cause, although it surely does not help.
+- Analysis 3
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/model1.PNG)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/model2.PNG)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/model3.PNG)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/model4.PNG)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/model5.PNG)
+![](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/model6.PNG)
 
-- [Code here](https://github.com/JasonSpaw/Rise-in-Anti-Vax-and-Mumps/blob/main/Final_Project_Story%20(1).ipynb)
+- This analysis is to observe a linear regrssion fit between crashpoint frequencies and potential factors of vehicle crashes.  The first three set of models look at linear regression models fitted across polygons of the three varying grid resolutions, with speed limit and AADT kept as features.  Models 4,5, and 6 were fitted across the same grid resolutions respectively but without speed limit and AADT as features.  The coefficient for intersections with traffic light signals was positvie in all model fits, showing a clear correlation to those particular types of intersections while other intersections had negative coefficients.  "TotalRoadMiles" and "AADT_density" also had positive coefficients in each model showing a positive corelation to "CrashesPerPolygon".  Models where speed limit and AADT were retained performed better overall, meaning that although my previous analysis led me to believe that these factors were likely not directly correlated, they are likely still correlated indirectly through other underlying factors and, therefore, both "Avg_Speed" and "AADT_density" should be retained and factor analysis of the variables should be explored to improve the fitting of the regression models.
+
+Overall, the regression models do prove to be a viable predictor model for "CrashesPerPolygon" in these datasets, with increasing accuracy as the resolution of the polygon grids is increased, based off the results of R-squred.  However, a much more in depth analysis would be required for better fitting.
+
+Due to time constraints this is where my analysis ends.  I may return to this project and add more to my analysis for dataset3 at a later date.
+
+- [Code here](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Project-GeospatialWorkflow!.ipynb)
