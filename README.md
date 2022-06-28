@@ -186,7 +186,7 @@ This project demonstrates my abilities to perform Frequent Itemset mining using 
 
 - [View notebook here](https://github.com/JasonSpaw/Frequent-Itemset-Mining-Apriori-Alternatives/blob/main/alt-itemset-mining-ex.ipynb)
 
-# [Project 6 - Geospatial Analysis Final Project](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project)
+# [Project 6 - Geospatial Crash Analysis Final Project](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project)
 Final Project submitted for Geospatial Analysis Course. 
 
 - Roughly 1 in 107, people die in car crashes every year.  The purpose of this story is to uncover what may be some contributing factors to car wrecks as to spread awareness.
