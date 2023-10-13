@@ -2,7 +2,7 @@
 
 - Jason Spaw
 - jp_spaw@outlook.com
-- (573) 528-2447
+- (242) 554-0024
 
 # [Project 1 - Starcraft 2 Performance Storytelling](https://github.com/JasonSpaw/SC2StoryProject)
 
