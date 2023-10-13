@@ -266,5 +266,18 @@ This was a shiny visual I did as contribution to my group's capstone project, du
   7. Go back to RStudio and press the Run App button in the top right corner of your Shiny web app.
     - After the first run, or if you are not new to RStudio and already have the needed packages installed, add "#" to the start of each line that has "install.packages" so you are not reinstalling the packages (the app will start faster).
     - Required packages are automatically built into server when app is uploaded to Shinyapps.io, so lines with install.packages should be removed or made a comment ('#') before uploading.
-    
-Click [here](https://github.com/JasonSpaw/Parcel_Proximity_Shiny_App) for Parcel Proximity Shiny App repository.
+ 
+# [Project 9 - Cryptotrage9000](https://github.com/JasonSpaw/Cryptotrage_9000)
+
+- This project is for cross-exchange and triangular arbitrage across 4 crypto currency markets: Coinbase, Gemini, Kraken, and Kucoin.
+- Kucoin triangular arbitrage tab is still under construction.
+- Language: Python
+- [Code Here](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Cryptotrage_9000.py)
+  
+[![Watch the video](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Click_Me.png)](https://youtu.be/dPmhGKzdF7Y)
+
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Home.png)
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/CrossCheck.png) 
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Coinbase_filtered.png)
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Gemini.png) 
+![](https://github.com/JasonSpaw/Cryptotrage_9000/blob/main/Kraken_filtered.png)
